@@ -1,0 +1,13 @@
+Fluxo de cadência
+1º Contato - Ligação e coleta das informações
+    Nome do atendente
+    Nome do responsável
+    Whatsapp do responsável
+    E-mail do responsável
+
+2º Contato com o responsável
+    Tentativa de conexão e fechamento
+
+Nutrição
+2x por semana - Email com promoção
+2x por semana - Whatsapp com promoção

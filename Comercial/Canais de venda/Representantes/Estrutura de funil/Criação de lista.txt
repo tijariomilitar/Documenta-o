@@ -1,0 +1,17 @@
+1 - Conhecer a empresa
+  O objetivo primeiramente é encontrar empresas que tenham o perfil para ser nossos clientes e 
+  coletar o máximo de informações para facilitar a abordagem no momento dos primeiros contatos
+
+  1.1 - Onde e como encontrar novas empresas?
+  R = 1 - Através do Mapa do google 
+        (Explicação ou link ensinando como encontrar)
+      
+      2 - Através dos resultados de busca para produtos similares.
+        (Explicação ou link ensinando como encontrar)
+
+  1.2 - Quais informações obter inicialmente?
+  R = Nome da Loja
+      Telefone
+      Produtos similares
+      Estado
+      Cidade
