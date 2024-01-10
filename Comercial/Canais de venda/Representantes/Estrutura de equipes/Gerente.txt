@@ -1,0 +1,27 @@
+Gerente comercial
+
+1 - Acompanhamento de relatórios
+	faturamento, 
+		Faturamento bruto
+
+	vendedores,
+		Faturamento individual
+
+	vendas, 
+	 	Sac - Acompanhar até finalizar o problema
+
+	clientes
+		Sem vendas a 4, 5 e 6 meses (Criar um relatório)
+			1 - Motivo pelo qual não compra
+
+			2 - Previsão de nova compra
+					Entrar em contato na data.
+
+			3 - Produtos de interesse na nova compra
+					Colocar promoção semanal conforme possível
+
+		Nutrição
+			Envia email segunda e quinta da promoção
+
+			Contato diário com as pessoas que compraram no dia (10/**)
+				WhatsApp ou ligação
