@@ -1,0 +1,113 @@
+Antes da ligação
+  Nome da empresa
+  telefone
+  Estado
+  cidade
+  Produto compatível
+
+Atendente
+Objetivos da ligação
+  NOME_DO_RESPONSAVEL
+  WhatsApp do responsável
+  Email do responsável
+
+Responsável
+Objetivos da ligação 
+  Entender a empresa dele
+  Gerar conexão
+  Entender como nossa empresa pode ser útil
+  Apresentar a empresa
+  Apresentar a nossa parceria
+
+NOME_DA_EMPRESA, boa tarde
+  Boa tarde, com quem eu falo?
+
+NOME_DO_ATENDENTE, e o seu?
+  Meu nome é Chris, Fulano, eu vi no site de vocês que vocês trabalham com
+  capa de colete modular, certo?
+
+Sim, trabalhamos
+  Que bom, Eu sou representante da JA Rio Militar e nós forcenemos
+  também esse material, o senhor é o responsável pelas compras da empresa?
+
+    Sim, sou eu.
+      Que bom conseguir falar diretamente com o senhor,
+      eu não quero tomar muito do seu tempo, mas eu gostaria de 
+      10 minutos da sua atenção para 
+      
+      TE OFERECER ALGO MUITO BOM, (GERAR CURIOSIDADE)
+      
+      te explicar como nós utilizamos nossos mais de 13 mil seguidores para 
+      trazer divulgação e relevância para a sua loja através do nosso sistema
+      de parceria
+
+      o senhor estaria disponível para eu fazer uma apresentação agora ou podemos
+      marcar um outro horário para eu te ligar?
+
+        1 - Pode falar agora
+          Então vamos lá, prometo que não tomo mais de 10 minutos.
+
+          Como funciona... 
+
+          Começa a apresentação.
+
+        2 - E como funciona isso? (Me explica rápido...)
+          O senhor tem os 10 minutinhos agora?
+            Sim
+              Então vamos lá.
+
+              Começa a apresentação.
+            
+            Não
+              Então amigo, eu realmente preciso de pelo menos 10 minutos 
+              porque não quero apenas te vender um produto mas sim oferecer 
+              uma parceria com o senhor, qual seria o melhor horário para
+              te ligar?
+
+              Agenda o horário. Ok obrigado...
+
+    Não, não sou eu.
+      E qual seria o nome da pessoa responsável?
+        É o fulano de tal. - NOME_DO_RESPONSAVEL
+          
+          Ah sim, ele se encontra na loja no momento?
+            Sim ele está aqui
+              
+              Seria possível eu conversar com ele?
+                Sim, vou passar para ele.
+                  Obrigado
+
+                Não, Ele disse que está ocupado no momento.
+                  Tudo bem, e qual seria o melhor horário para conversar com ele?
+
+                    Tal hora.
+                      Tudo bem então fulano, muito obrigado pela sua atenção, ligo para ele as X horas.
+
+            Não, ele não está.
+              Eu consigo falar com ele ligando aí para a loja? Ele vai aí
+              em algum horário?
+
+              Ah ele geralmente vem as x horas.
+                Tudo bem então fulano, muito obrigado pela sua atenção, 
+                ligo para ele as X horas.
+
+              Não, muito dificil encontrar ele na loja. (ou não tem horário)
+                E em qual número eu consigo falar diretamente com ele?
+
+                  Sim, entra em contato pelo número x. - WhatsApp
+                    Obrigado, você sabe me informar também qual o Email
+                    que ele utiliza, para eu enviar uma apresentação antes.
+
+                      Sim, o email é - Email do responsável
+                        Muito obrigado pela sua atenção fulano, vou entrar em 
+                        contato com ele. Um abraço.
+
+                      Não, tenta entrar em contato pelo telefone mesmo
+                        Tudo bem, muito obrigado pela sua atenção. Vou tentar
+                        contato com ele.
+
+                  Não tem nenhum número.
+                    Poxa, como eu consigo falar com ele? 
+                    Minha meta tá dificil esse mês Você consegue me ajudar?
+                      ...
+
