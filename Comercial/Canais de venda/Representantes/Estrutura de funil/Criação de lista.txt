@@ -9,6 +9,8 @@
       2 - Através dos resultados de busca para produtos similares.
         (Explicação ou link ensinando como encontrar)
 
+      3 - Através de sites que entregam leads prontos (Apollo)
+
   1.2 - Quais informações obter inicialmente?
   R = Nome da Loja
       Telefone
