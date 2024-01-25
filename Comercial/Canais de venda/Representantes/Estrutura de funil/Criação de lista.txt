@@ -11,6 +11,9 @@
 
       3 - Através de sites que entregam leads prontos (Apollo)
 
+      4 - Nova forma de montar lista
+        Explicação dessa nova forma
+
   1.2 - Quais informações obter inicialmente?
   R = Nome da Loja
       Telefone
