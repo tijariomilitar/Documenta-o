@@ -1,11 +1,12 @@
+Objetivo principal da ligação é fechar um pedido com 20% de desconto do
+kit start revenda: Os que ele pedir no valor mínimo de R$600,00
+
 Boa tarde fulano, tudo bem? 
 Havia combinado de ligar para o senhor
 nesse horário, posso começar a apresentação?
   Pode sim.
-    Ótimo, fulano, eu vou abordar todos os principais
-    pontos em relação ao sistema de parceria e como vamos
-    divulgar sua loja como havia prometido no primeiro contato
-    que tivemos.
+    Que bom, fulano, eu já vou conversar com o senhor a respeito do 
+    sistema de parceria e como vamos divulgar sua loja,
     Mas antes eu gostaria de fazer algumas perguntas para entender 
     melhor a empresa do senhor e como nós podemos ser útil.
 
@@ -19,19 +20,24 @@ nesse horário, posso começar a apresentação?
       Deixa responder.
 
     E quais são as principais marcas que o senhor trabalha no momento?
-      Hoje trabalho com a marca_1 e marca_2.
+      Hoje trabalho com a marca_1 e marca_2
 
-        Entendi, e caso o senhor me permita saber, qual a margem de lucro
-        aproximada que o senhor consegue com esses fornecedores atualmente?
-          1 - Caso seja maior que a nossa margem
-            Qual seria a margem ideal para o senhor incluir um produto
-            no seu portifólio?
-              Deixa responder
+    Muito bom fulano, vou te enviar agora, um link com as informações necessárias
+    para a apresentação...
+      E espera o cara conseguir abrir e falar que está vendo...
+        Consegui, estou vendo.
 
-          2 - Caso nossa margem seja maior
+    Ótimo, 
+      1 página de apresentação para cada nicho.
+        Lojista diz que o principal público é atirador.
+          Na apresentação mostrar coldre, chest rig.
+        Lojista diz que é para policial militar
+          Na apresentação mostrar JA3, Cinto, Bornal
 
-    Tem algum produto que o senhor está com dificuldade para encontrar
-    fornecedor?
+    Próxima pergunta
+      
+      
+
 
     Produção na marca.
 
