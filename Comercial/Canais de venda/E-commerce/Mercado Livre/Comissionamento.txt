@@ -1,0 +1,127 @@
+Métricas
+  Faturamento
+
+  ACOS
+
+  Reputação
+
+  Anúncios chave com Reputações 100%
+
+  Custo estoque Full
+
+Ações
+  Completar anúncios chave
+
+  Criar campanhas organizadas
+
+  Criar descrições para IA (medidas, informações de uso e composição)
+
+Tarefas
+  Manter promoções que possuam margem ativas
+
+--------------------------------
+
+Comissão
+
+Faturamento / 1000 = PONTUACAO_BASE
+
++130% Faturamento = 25x
+125% Faturamento  = 20x
+120% Faturamento  = 18x
+115% Faturamento  = 16x
+110% Faturamento  = 14x
+105% Faturamento  = 12x
+100% Faturamento  = 10x
+95% Faturamento   =  8x
+90% Faturamento   =  6x
+85% Faturamento   =  4x
+80% Faturamento   =  2x
+-80% Faturamento  =  1x
+
+ACOS = (20% =  1x) 
+ACOS = (19% =  2x) 
+ACOS = (18% =  4x) 
+ACOS = (17% =  6x) 
+ACOS = (16% =  8x) 
+ACOS = (15% = 10x) 
+ACOS = (14% = 12x) 
+ACOS = (13% = 14x) 
+ACOS = (12% = 16x) 
+ACOS = (11% = 18x) 
+ACOS = (10% = 20x)
+       
+Rep1 = (5 = 5x) (4- = 1x)
+Rep2 = (5 = 5x) (4- = 1x)
+Rep3 = (5 = 5x) (4- = 1x)
+Rep4 = (5 = 5x) (4- = 1x)
+4 OK = +20x
+
+6 METAS
+
+FAT  = 10x
+ACOS = 10x
+Rep1 = 5x
+Rep2 = 5x
+Rep3 = 5x
+Rep4 = 5x
+4 OK + 30x
+
+70 / 6 = 11,66x
+
+180P x 11,66 = 2098P
+
+2098P * R$0,20 = R$419,60
+
+---------------------------------
+Tabela de precificação
+
+1750P * R$0,10 = R$175,00
+2000P * R$0,20 = R$400,00
+2250P * R$0,30 = R$675,00
+2500P * R$0,40 = R$1000,00
+2750P * R$0,50 = R$1375,00
+3000P * R$0,60 = R$1800,00
+3250P * R$0,70 = R$2275,00
+3500P * R$0,80 = R$2800,00
+3750P * R$0,90 = R$3375,00
+4000P * R$1,00 = R$4000,00
+4250P * R$1,10 = R$4675,00
+4500P * R$1,20 = R$5400,00
+4750P * R$1,30 = R$6175,00
+5000P * R$1,40 = R$7000,00
+5250P * R$1,50 = R$7875,00
+
+----------------------------------
+
+Metas de Faturamento
+
+Fevereiro = R$180.000,00
+Março     = R$200.000,00
+Abril     = R$220.000,00
+Maio      = R$240.000,00
+Junho     = R$260.000,00
++3%
+Julho     = R$267.800,00
+Agosto    = R$275.834,00
+Setembro  = R$284.109,02
+Outubro   = R$292.632,29
+Novembro  = R$301.411,25
+Dezembro  = R$310.453,58
+
+-----------------------------
+
+Cenário ideal para Fevereiro
+
+189.000 / 1000 = 189P
+ 
+    (105%) (12x) 
+  ACOS 13% (14x)
+   Rep. 4x (50x)
+
+  76 / 6 = 12.66
+
+  189P x 12.66 = 2392P
+
+  2392P x R$0,30 = R$717,60
+
+------------------------------
