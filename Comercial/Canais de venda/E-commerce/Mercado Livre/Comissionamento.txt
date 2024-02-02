@@ -43,17 +43,17 @@ Faturamento / 1000 = PONTUACAO_BASE
 80% Faturamento   =  2x
 -80% Faturamento  =  1x
 
-ACOS = (20% =  1x) 
-ACOS = (19% =  2x) 
-ACOS = (18% =  4x) 
-ACOS = (17% =  6x) 
-ACOS = (16% =  8x) 
-ACOS = (15% = 10x) 
-ACOS = (14% = 12x) 
-ACOS = (13% = 14x) 
-ACOS = (12% = 16x) 
-ACOS = (11% = 18x) 
-ACOS = (10% = 20x)
+ACOS = (15% =  1x) 
+ACOS = (14% =  2x) 
+ACOS = (13% =  4x) 
+ACOS = (12% =  6x) 
+ACOS = (11% =  8x) 
+ACOS = (10% = 10x) 
+ACOS = ( 9% = 12x) 
+ACOS = ( 8% = 14x) 
+ACOS = ( 7% = 16x) 
+ACOS = ( 6% = 18x) 
+ACOS = ( 5% = 20x)
        
 Rep1 = (5 = 5x) (4- = 1x)
 Rep2 = (5 = 5x) (4- = 1x)
@@ -117,16 +117,16 @@ Dezembro  = R$334.334,63 (R$3677,68)
 
 Cenário ideal para Fevereiro
 
-189.000 / 1000 = 189P
+210.000 / 1000 = 210P
  
-    (105%) (12x) 
-  ACOS 13% (14x)
+    (105%) (12x)
+   ACOS 9% (12x)
    Rep. 4x (40x)
 
-  76 / 6 = 11
+  66 / 6 = 11
 
-  189P x 11 = 2079P
+  210P x 11 = 2310p
 
-  2079P x R$0,60 = R$1247,40
+  2310P x R$0,70 = R$1617,00
 
 ------------------------------
