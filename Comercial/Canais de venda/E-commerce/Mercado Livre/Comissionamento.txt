@@ -5,9 +5,7 @@ Métricas
 
   Reputação
 
-  Anúncios chave com Reputações 100%
-
-  Custo estoque Full
+  JC - Custo estoque Full
 
 Ações
   Completar anúncios chave
@@ -15,15 +13,22 @@ Ações
   Criar campanhas organizadas
 
   Criar descrições para IA (medidas, informações de uso e composição)
+    Medidas na imagem x
+    Produtos unitários
+    Indicação para outras cores ou modelos
+    + FAQ
 
 Tarefas
   Manter promoções que possuam margem ativas
 
+  Recriar anúncios excluídos ou com reputação afetada
+
 --------------------------------
 
 Comissão
-
 Faturamento / 1000 = PONTUACAO_BASE
+
+6 METAS
 
 +130% Faturamento = 25x
 125% Faturamento  = 20x
@@ -54,9 +59,7 @@ Rep1 = (5 = 5x) (4- = 1x)
 Rep2 = (5 = 5x) (4- = 1x)
 Rep3 = (5 = 5x) (4- = 1x)
 Rep4 = (5 = 5x) (4- = 1x)
-4 OK = +30x
-
-6 METAS
+4 OK = +20x
 
 FAT  = 10x
 ACOS = 10x
@@ -64,49 +67,51 @@ Rep1 = 5x
 Rep2 = 5x
 Rep3 = 5x
 Rep4 = 5x
-4 OK + 30x
+4 OK + 20x
 
-70 / 6 = 11,66x
+60 / 6 = 10x
 
-180P x 11,66 = 2098P
+200P x 10 = 2000P
 
-2098P * R$0,20 = R$419,60
+2000P * R$0,60 = R$1200,00
 
 ---------------------------------
 Tabela de precificação
 
-1750P * R$0,10 = R$175,00
-2000P * R$0,20 = R$400,00
-2250P * R$0,30 = R$675,00
-2500P * R$0,40 = R$1000,00
-2750P * R$0,50 = R$1375,00
-3000P * R$0,60 = R$1800,00
-3250P * R$0,70 = R$2275,00
-3500P * R$0,80 = R$2800,00
-3750P * R$0,90 = R$3375,00
-4000P * R$1,00 = R$4000,00
-4250P * R$1,10 = R$4675,00
-4500P * R$1,20 = R$5400,00
-4750P * R$1,30 = R$6175,00
-5000P * R$1,40 = R$7000,00
-5250P * R$1,50 = R$7875,00
-
+1750P * R$0.50 = R$875.00
+2000P * R$0.60 = R$1200.00
+2250P * R$0.70 = R$1575.00
+2500P * R$0.80 = R$2000.00
+2750P * R$0.90 = R$2475.00
+3000P * R$1.00 = R$3000.00
+3250P * R$1.10 = R$3575.00
+3500P * R$1.20 = R$4200.00
+3750P * R$1.30 = R$4875.00
+4000P * R$1.40 = R$5600.00
+4250P * R$1.50 = R$6375.00
+4500P * R$1.60 = R$7200.00
+4750P * R$1.70 = R$8075.00
+5000P * R$1.80 = R$9000.00
+5250P * R$1.90 = R$9975.00
+5500P * R$2.00 = R$11000.00
++5000P = R$2,00
+ 
 ----------------------------------
 
 Metas de Faturamento
 
-Fevereiro = R$180.000,00
-Março     = R$200.000,00
-Abril     = R$220.000,00
-Maio      = R$240.000,00
-Junho     = R$260.000,00
+Fevereiro = R$200.000,00 (R$1200,00)
+Março     = R$220.000,00 (R$1680,00)
+Abril     = R$240.000,00 (R$2080,00)
+Maio      = R$260.000,00 (R$2080,00)
+Junho     = R$280.000,00 (R$2520,00)
 +3%
-Julho     = R$267.800,00
-Agosto    = R$275.834,00
-Setembro  = R$284.109,02
-Outubro   = R$292.632,29
-Novembro  = R$301.411,25
-Dezembro  = R$310.453,58
+Julho     = R$288.400,00 (R$2595,60)
+Agosto    = R$297.052,00 (R$2673,46)
+Setembro  = R$305.963,56 (R$3059,63)
+Outubro   = R$315.142,46 (R$3151,42)
+Novembro  = R$324.596,73 (R$3245,96)
+Dezembro  = R$334.334,63 (R$3677,68)
 
 -----------------------------
 
@@ -116,12 +121,12 @@ Cenário ideal para Fevereiro
  
     (105%) (12x) 
   ACOS 13% (14x)
-   Rep. 4x (50x)
+   Rep. 4x (40x)
 
-  76 / 6 = 12.66
+  76 / 6 = 11
 
-  189P x 12.66 = 2392P
+  189P x 11 = 2079P
 
-  2392P x R$0,30 = R$717,60
+  2079P x R$0,60 = R$1247,40
 
 ------------------------------
