@@ -1,1 +1,25 @@
+Precificar com novos valores
+  Manter preço original 15% mais alto que o valor mínimo, para ter margem para promoções
+  Manter promoções ativas
 
+Completar planilha para ter todos os produtos ativos.
+  Verificar estoque dos produtos
+  Ter todos os anúncios chaves com reputação 100%
+  Estudar e enviar anúncios que valem a pena Full
+
+Completar descrição para IA
+  Medidas do produto
+  Modos de uso
+  Indicação de variações ou outros modelos
+  Indicação para compra unitária em caso de kits
+  Indicação de kits semelhantes ou com diferente quantidade de acessórios
+
+Criar Vídeos (Apenas do plate de engate antes das campanhas de Publicidade)
+  Vídeos girando e manuseando o produto
+  Mensagens na tela por escrito durante o vídeo
+
+Reorganizar campanhas de Publicidade
+  Criar (ou editar) campanhas organizadas
+  Preencher as campanhas de acordo com a situação de cada produto
+
+Criar catálogos
