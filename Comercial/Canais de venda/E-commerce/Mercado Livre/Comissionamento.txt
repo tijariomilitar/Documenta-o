@@ -7,22 +7,6 @@ Métricas
 
   JC - Custo estoque Full
 
-Ações
-  Completar anúncios chave
-
-  Criar campanhas organizadas
-
-  Criar descrições para IA (medidas, informações de uso e composição)
-    Medidas na imagem x
-    Produtos unitários
-    Indicação para outras cores ou modelos
-    + FAQ
-
-Tarefas
-  Manter promoções que possuam margem ativas
-
-  Recriar anúncios excluídos ou com reputação afetada
-
 --------------------------------
 
 Comissão
